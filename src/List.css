@@ -1,0 +1,29 @@
+span {
+    cursor: pointer;
+    color: black;
+    margin-left: 3%;
+}
+button.form-control{
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    width: 57px;
+    margin-left: 104%;
+    margin-top: -17%;
+}
+label {
+    display: inline-block;
+    margin-bottom: .5rem;
+    margin-left: 32%;
+} h1.h1 {
+    font-size: 4.5rem;
+    margin-left: 30%;
+    font-style: italic;
+    color: burlywood;
+    text-shadow: 0px 3px 0px #FF0000;
+}
+li {
+    margin-left: 32%;
+    font-size: x-large;
+    color: red;
+}
